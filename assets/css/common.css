@@ -604,7 +604,7 @@ img {
  }
 }
 .page-top .image__reile {
- background:url(../img/reile.jpg) no-repeat center;
+ background:url(../img/website-1.png) no-repeat center;
  background-size:cover
 }
 .page-top .image__about {
@@ -1240,7 +1240,7 @@ header .global-nav__sns a:last-child {
  background:#072142
 }
 .image--works {
- background:url(../img/reile.jpg) no-repeat center;
+ background:url(../img/website-1.png) no-repeat center;
  background-size:cover
 }
 .image--about {
@@ -1453,7 +1453,7 @@ header .global-nav__sns a:last-child {
 .big-image {
  width:100%;
  height:116rem;
- background:url(../img/Perspective.jpg) no-repeat center;
+ background:url(../img/website-5.jpg) no-repeat center;
  background-size:cover;
  margin-top:14.4rem
 }
